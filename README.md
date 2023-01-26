@@ -1,2 +1,2 @@
-# projeto-site
- Projeto de um site que vou criar 
+# Exercicos-EBAC
+Meus exercicos do curso da EBAC
